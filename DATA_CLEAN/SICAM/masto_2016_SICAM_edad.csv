@@ -1,0 +1,385 @@
+,resultado,edad,cuenta
+0,Altamente Sugestiva a Malignidad,25,1
+1,Altamente Sugestiva a Malignidad,26,5
+2,Altamente Sugestiva a Malignidad,28,2
+3,Altamente Sugestiva a Malignidad,29,4
+4,Altamente Sugestiva a Malignidad,30,1
+5,Altamente Sugestiva a Malignidad,31,5
+6,Altamente Sugestiva a Malignidad,32,8
+7,Altamente Sugestiva a Malignidad,33,5
+8,Altamente Sugestiva a Malignidad,34,5
+9,Altamente Sugestiva a Malignidad,35,8
+10,Altamente Sugestiva a Malignidad,36,8
+11,Altamente Sugestiva a Malignidad,37,8
+12,Altamente Sugestiva a Malignidad,38,12
+13,Altamente Sugestiva a Malignidad,39,18
+14,Altamente Sugestiva a Malignidad,40,33
+15,Altamente Sugestiva a Malignidad,41,38
+16,Altamente Sugestiva a Malignidad,42,46
+17,Altamente Sugestiva a Malignidad,43,44
+18,Altamente Sugestiva a Malignidad,44,53
+19,Altamente Sugestiva a Malignidad,45,47
+20,Altamente Sugestiva a Malignidad,46,60
+21,Altamente Sugestiva a Malignidad,47,60
+22,Altamente Sugestiva a Malignidad,48,62
+23,Altamente Sugestiva a Malignidad,49,51
+24,Altamente Sugestiva a Malignidad,50,51
+25,Altamente Sugestiva a Malignidad,51,43
+26,Altamente Sugestiva a Malignidad,52,63
+27,Altamente Sugestiva a Malignidad,53,61
+28,Altamente Sugestiva a Malignidad,54,53
+29,Altamente Sugestiva a Malignidad,55,57
+30,Altamente Sugestiva a Malignidad,56,64
+31,Altamente Sugestiva a Malignidad,57,41
+32,Altamente Sugestiva a Malignidad,58,55
+33,Altamente Sugestiva a Malignidad,59,48
+34,Altamente Sugestiva a Malignidad,60,49
+35,Altamente Sugestiva a Malignidad,61,42
+36,Altamente Sugestiva a Malignidad,62,40
+37,Altamente Sugestiva a Malignidad,63,34
+38,Altamente Sugestiva a Malignidad,64,25
+39,Altamente Sugestiva a Malignidad,65,37
+40,Altamente Sugestiva a Malignidad,66,44
+41,Altamente Sugestiva a Malignidad,67,29
+42,Altamente Sugestiva a Malignidad,68,26
+43,Altamente Sugestiva a Malignidad,69,27
+44,Anormalidad Sospechosa,25,1
+45,Anormalidad Sospechosa,26,2
+46,Anormalidad Sospechosa,27,5
+47,Anormalidad Sospechosa,28,4
+48,Anormalidad Sospechosa,29,1
+49,Anormalidad Sospechosa,30,3
+50,Anormalidad Sospechosa,31,5
+51,Anormalidad Sospechosa,32,9
+52,Anormalidad Sospechosa,33,10
+53,Anormalidad Sospechosa,34,25
+54,Anormalidad Sospechosa,35,7
+55,Anormalidad Sospechosa,36,12
+56,Anormalidad Sospechosa,37,19
+57,Anormalidad Sospechosa,38,16
+58,Anormalidad Sospechosa,39,34
+59,Anormalidad Sospechosa,40,95
+60,Anormalidad Sospechosa,41,141
+61,Anormalidad Sospechosa,42,134
+62,Anormalidad Sospechosa,43,148
+63,Anormalidad Sospechosa,44,134
+64,Anormalidad Sospechosa,45,130
+65,Anormalidad Sospechosa,46,141
+66,Anormalidad Sospechosa,47,153
+67,Anormalidad Sospechosa,48,144
+68,Anormalidad Sospechosa,49,140
+69,Anormalidad Sospechosa,50,121
+70,Anormalidad Sospechosa,51,127
+71,Anormalidad Sospechosa,52,105
+72,Anormalidad Sospechosa,53,136
+73,Anormalidad Sospechosa,54,111
+74,Anormalidad Sospechosa,55,113
+75,Anormalidad Sospechosa,56,111
+76,Anormalidad Sospechosa,57,98
+77,Anormalidad Sospechosa,58,82
+78,Anormalidad Sospechosa,59,79
+79,Anormalidad Sospechosa,60,75
+80,Anormalidad Sospechosa,61,62
+81,Anormalidad Sospechosa,62,62
+82,Anormalidad Sospechosa,63,64
+83,Anormalidad Sospechosa,64,44
+84,Anormalidad Sospechosa,65,61
+85,Anormalidad Sospechosa,66,49
+86,Anormalidad Sospechosa,67,43
+87,Anormalidad Sospechosa,68,43
+88,Anormalidad Sospechosa,69,29
+89,Baja Sospecha de Malignidad,28,1
+90,Baja Sospecha de Malignidad,31,2
+91,Baja Sospecha de Malignidad,32,3
+92,Baja Sospecha de Malignidad,33,1
+93,Baja Sospecha de Malignidad,34,2
+94,Baja Sospecha de Malignidad,36,3
+95,Baja Sospecha de Malignidad,37,7
+96,Baja Sospecha de Malignidad,38,4
+97,Baja Sospecha de Malignidad,39,8
+98,Baja Sospecha de Malignidad,40,40
+99,Baja Sospecha de Malignidad,41,38
+100,Baja Sospecha de Malignidad,42,33
+101,Baja Sospecha de Malignidad,43,56
+102,Baja Sospecha de Malignidad,44,46
+103,Baja Sospecha de Malignidad,45,42
+104,Baja Sospecha de Malignidad,46,36
+105,Baja Sospecha de Malignidad,47,36
+106,Baja Sospecha de Malignidad,48,36
+107,Baja Sospecha de Malignidad,49,40
+108,Baja Sospecha de Malignidad,50,35
+109,Baja Sospecha de Malignidad,51,39
+110,Baja Sospecha de Malignidad,52,30
+111,Baja Sospecha de Malignidad,53,25
+112,Baja Sospecha de Malignidad,54,28
+113,Baja Sospecha de Malignidad,55,25
+114,Baja Sospecha de Malignidad,56,12
+115,Baja Sospecha de Malignidad,57,21
+116,Baja Sospecha de Malignidad,58,27
+117,Baja Sospecha de Malignidad,59,15
+118,Baja Sospecha de Malignidad,60,22
+119,Baja Sospecha de Malignidad,61,13
+120,Baja Sospecha de Malignidad,62,18
+121,Baja Sospecha de Malignidad,63,13
+122,Baja Sospecha de Malignidad,64,13
+123,Baja Sospecha de Malignidad,65,11
+124,Baja Sospecha de Malignidad,66,19
+125,Baja Sospecha de Malignidad,67,9
+126,Baja Sospecha de Malignidad,68,4
+127,Baja Sospecha de Malignidad,69,4
+128,Benigna,25,11
+129,Benigna,26,11
+130,Benigna,27,11
+131,Benigna,28,25
+132,Benigna,29,34
+133,Benigna,30,46
+134,Benigna,31,50
+135,Benigna,32,81
+136,Benigna,33,81
+137,Benigna,34,101
+138,Benigna,35,208
+139,Benigna,36,323
+140,Benigna,37,514
+141,Benigna,38,709
+142,Benigna,39,2085
+143,Benigna,40,26156
+144,Benigna,41,29678
+145,Benigna,42,30456
+146,Benigna,43,30707
+147,Benigna,44,31017
+148,Benigna,45,29740
+149,Benigna,46,29078
+150,Benigna,47,28490
+151,Benigna,48,28105
+152,Benigna,49,27623
+153,Benigna,50,27146
+154,Benigna,51,26234
+155,Benigna,52,25453
+156,Benigna,53,24316
+157,Benigna,54,22819
+158,Benigna,55,21811
+159,Benigna,56,21408
+160,Benigna,57,19526
+161,Benigna,58,17981
+162,Benigna,59,17263
+163,Benigna,60,15763
+164,Benigna,61,14673
+165,Benigna,62,12992
+166,Benigna,63,11687
+167,Benigna,64,10496
+168,Benigna,65,9313
+169,Benigna,66,8440
+170,Benigna,67,7341
+171,Benigna,68,6464
+172,Benigna,69,5602
+173,Evaluación Adicional,25,6
+174,Evaluación Adicional,26,4
+175,Evaluación Adicional,27,3
+176,Evaluación Adicional,28,8
+177,Evaluación Adicional,29,4
+178,Evaluación Adicional,30,10
+179,Evaluación Adicional,31,6
+180,Evaluación Adicional,32,12
+181,Evaluación Adicional,33,23
+182,Evaluación Adicional,34,29
+183,Evaluación Adicional,35,49
+184,Evaluación Adicional,36,87
+185,Evaluación Adicional,37,120
+186,Evaluación Adicional,38,140
+187,Evaluación Adicional,39,376
+188,Evaluación Adicional,40,3585
+189,Evaluación Adicional,41,4203
+190,Evaluación Adicional,42,4544
+191,Evaluación Adicional,43,4601
+192,Evaluación Adicional,44,4580
+193,Evaluación Adicional,45,4326
+194,Evaluación Adicional,46,4005
+195,Evaluación Adicional,47,3801
+196,Evaluación Adicional,48,3576
+197,Evaluación Adicional,49,3267
+198,Evaluación Adicional,50,2884
+199,Evaluación Adicional,51,2512
+200,Evaluación Adicional,52,2189
+201,Evaluación Adicional,53,1997
+202,Evaluación Adicional,54,1702
+203,Evaluación Adicional,55,1518
+204,Evaluación Adicional,56,1480
+205,Evaluación Adicional,57,1306
+206,Evaluación Adicional,58,1112
+207,Evaluación Adicional,59,1028
+208,Evaluación Adicional,60,942
+209,Evaluación Adicional,61,823
+210,Evaluación Adicional,62,731
+211,Evaluación Adicional,63,677
+212,Evaluación Adicional,64,551
+213,Evaluación Adicional,65,524
+214,Evaluación Adicional,66,437
+215,Evaluación Adicional,67,369
+216,Evaluación Adicional,68,298
+217,Evaluación Adicional,69,265
+218,Negativa,25,6
+219,Negativa,26,7
+220,Negativa,27,12
+221,Negativa,28,11
+222,Negativa,29,16
+223,Negativa,30,13
+224,Negativa,31,20
+225,Negativa,32,15
+226,Negativa,33,27
+227,Negativa,34,33
+228,Negativa,35,65
+229,Negativa,36,95
+230,Negativa,37,189
+231,Negativa,38,202
+232,Negativa,39,541
+233,Negativa,40,6425
+234,Negativa,41,7376
+235,Negativa,42,7256
+236,Negativa,43,7192
+237,Negativa,44,7235
+238,Negativa,45,6819
+239,Negativa,46,6609
+240,Negativa,47,6401
+241,Negativa,48,6231
+242,Negativa,49,6161
+243,Negativa,50,6054
+244,Negativa,51,5734
+245,Negativa,52,5530
+246,Negativa,53,5189
+247,Negativa,54,4808
+248,Negativa,55,4487
+249,Negativa,56,4312
+250,Negativa,57,3847
+251,Negativa,58,3313
+252,Negativa,59,3187
+253,Negativa,60,2804
+254,Negativa,61,2461
+255,Negativa,62,2139
+256,Negativa,63,1780
+257,Negativa,64,1585
+258,Negativa,65,1414
+259,Negativa,66,1228
+260,Negativa,67,986
+261,Negativa,68,835
+262,Negativa,69,750
+263,Probablemente Benigna,25,4
+264,Probablemente Benigna,26,2
+265,Probablemente Benigna,27,5
+266,Probablemente Benigna,28,6
+267,Probablemente Benigna,29,8
+268,Probablemente Benigna,30,6
+269,Probablemente Benigna,31,13
+270,Probablemente Benigna,32,4
+271,Probablemente Benigna,33,14
+272,Probablemente Benigna,34,14
+273,Probablemente Benigna,35,12
+274,Probablemente Benigna,36,30
+275,Probablemente Benigna,37,49
+276,Probablemente Benigna,38,57
+277,Probablemente Benigna,39,139
+278,Probablemente Benigna,40,1380
+279,Probablemente Benigna,41,1601
+280,Probablemente Benigna,42,1642
+281,Probablemente Benigna,43,1848
+282,Probablemente Benigna,44,1824
+283,Probablemente Benigna,45,1753
+284,Probablemente Benigna,46,1730
+285,Probablemente Benigna,47,1632
+286,Probablemente Benigna,48,1588
+287,Probablemente Benigna,49,1538
+288,Probablemente Benigna,50,1418
+289,Probablemente Benigna,51,1355
+290,Probablemente Benigna,52,1231
+291,Probablemente Benigna,53,1113
+292,Probablemente Benigna,54,998
+293,Probablemente Benigna,55,985
+294,Probablemente Benigna,56,924
+295,Probablemente Benigna,57,800
+296,Probablemente Benigna,58,731
+297,Probablemente Benigna,59,702
+298,Probablemente Benigna,60,618
+299,Probablemente Benigna,61,546
+300,Probablemente Benigna,62,504
+301,Probablemente Benigna,63,419
+302,Probablemente Benigna,64,383
+303,Probablemente Benigna,65,347
+304,Probablemente Benigna,66,329
+305,Probablemente Benigna,67,231
+306,Probablemente Benigna,68,193
+307,Probablemente Benigna,69,183
+308,Riesgo Intermedio de Malignidad,25,1
+309,Riesgo Intermedio de Malignidad,27,1
+310,Riesgo Intermedio de Malignidad,30,1
+311,Riesgo Intermedio de Malignidad,31,1
+312,Riesgo Intermedio de Malignidad,33,1
+313,Riesgo Intermedio de Malignidad,34,2
+314,Riesgo Intermedio de Malignidad,35,1
+315,Riesgo Intermedio de Malignidad,36,2
+316,Riesgo Intermedio de Malignidad,37,1
+317,Riesgo Intermedio de Malignidad,38,2
+318,Riesgo Intermedio de Malignidad,39,3
+319,Riesgo Intermedio de Malignidad,40,19
+320,Riesgo Intermedio de Malignidad,41,21
+321,Riesgo Intermedio de Malignidad,42,23
+322,Riesgo Intermedio de Malignidad,43,17
+323,Riesgo Intermedio de Malignidad,44,22
+324,Riesgo Intermedio de Malignidad,45,26
+325,Riesgo Intermedio de Malignidad,46,25
+326,Riesgo Intermedio de Malignidad,47,24
+327,Riesgo Intermedio de Malignidad,48,29
+328,Riesgo Intermedio de Malignidad,49,14
+329,Riesgo Intermedio de Malignidad,50,27
+330,Riesgo Intermedio de Malignidad,51,27
+331,Riesgo Intermedio de Malignidad,52,24
+332,Riesgo Intermedio de Malignidad,53,13
+333,Riesgo Intermedio de Malignidad,54,25
+334,Riesgo Intermedio de Malignidad,55,15
+335,Riesgo Intermedio de Malignidad,56,19
+336,Riesgo Intermedio de Malignidad,57,16
+337,Riesgo Intermedio de Malignidad,58,14
+338,Riesgo Intermedio de Malignidad,59,11
+339,Riesgo Intermedio de Malignidad,60,12
+340,Riesgo Intermedio de Malignidad,61,11
+341,Riesgo Intermedio de Malignidad,62,14
+342,Riesgo Intermedio de Malignidad,63,12
+343,Riesgo Intermedio de Malignidad,64,9
+344,Riesgo Intermedio de Malignidad,65,6
+345,Riesgo Intermedio de Malignidad,66,8
+346,Riesgo Intermedio de Malignidad,67,5
+347,Riesgo Intermedio de Malignidad,68,1
+348,Riesgo Intermedio de Malignidad,69,5
+349,Riesgo Moderado de Malignidad,35,1
+350,Riesgo Moderado de Malignidad,36,1
+351,Riesgo Moderado de Malignidad,37,3
+352,Riesgo Moderado de Malignidad,38,2
+353,Riesgo Moderado de Malignidad,39,7
+354,Riesgo Moderado de Malignidad,40,15
+355,Riesgo Moderado de Malignidad,41,13
+356,Riesgo Moderado de Malignidad,42,15
+357,Riesgo Moderado de Malignidad,43,10
+358,Riesgo Moderado de Malignidad,44,6
+359,Riesgo Moderado de Malignidad,45,12
+360,Riesgo Moderado de Malignidad,46,15
+361,Riesgo Moderado de Malignidad,47,12
+362,Riesgo Moderado de Malignidad,48,8
+363,Riesgo Moderado de Malignidad,49,13
+364,Riesgo Moderado de Malignidad,50,15
+365,Riesgo Moderado de Malignidad,51,8
+366,Riesgo Moderado de Malignidad,52,11
+367,Riesgo Moderado de Malignidad,53,13
+368,Riesgo Moderado de Malignidad,54,12
+369,Riesgo Moderado de Malignidad,55,7
+370,Riesgo Moderado de Malignidad,56,7
+371,Riesgo Moderado de Malignidad,57,6
+372,Riesgo Moderado de Malignidad,58,16
+373,Riesgo Moderado de Malignidad,59,10
+374,Riesgo Moderado de Malignidad,60,7
+375,Riesgo Moderado de Malignidad,61,13
+376,Riesgo Moderado de Malignidad,62,8
+377,Riesgo Moderado de Malignidad,63,6
+378,Riesgo Moderado de Malignidad,64,6
+379,Riesgo Moderado de Malignidad,65,3
+380,Riesgo Moderado de Malignidad,66,4
+381,Riesgo Moderado de Malignidad,67,5
+382,Riesgo Moderado de Malignidad,68,6
+383,Riesgo Moderado de Malignidad,69,7

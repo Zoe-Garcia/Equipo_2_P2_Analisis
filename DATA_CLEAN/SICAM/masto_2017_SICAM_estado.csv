@@ -1,0 +1,279 @@
+,resultado,estado,cuenta
+0,Altamente Sugestiva a Malignidad,Aguascalientes,22
+1,Altamente Sugestiva a Malignidad,Baja California,22
+2,Altamente Sugestiva a Malignidad,Baja California Sur,6
+3,Altamente Sugestiva a Malignidad,Campeche,12
+4,Altamente Sugestiva a Malignidad,Chiapas,10
+5,Altamente Sugestiva a Malignidad,Chihuahua,61
+6,Altamente Sugestiva a Malignidad,Ciudad de México,224
+7,Altamente Sugestiva a Malignidad,Coahuila de Zaragoza,38
+8,Altamente Sugestiva a Malignidad,Colima,3
+9,Altamente Sugestiva a Malignidad,Durango,7
+10,Altamente Sugestiva a Malignidad,Estado de México,96
+11,Altamente Sugestiva a Malignidad,Guanajuato,84
+12,Altamente Sugestiva a Malignidad,Guerrero,5
+13,Altamente Sugestiva a Malignidad,Hidalgo,37
+14,Altamente Sugestiva a Malignidad,Jalisco,100
+15,Altamente Sugestiva a Malignidad,Michoacán de Ocampo,79
+16,Altamente Sugestiva a Malignidad,Nayarit,13
+17,Altamente Sugestiva a Malignidad,Nuevo León,86
+18,Altamente Sugestiva a Malignidad,Oaxaca,6
+19,Altamente Sugestiva a Malignidad,Puebla,38
+20,Altamente Sugestiva a Malignidad,Querétaro,99
+21,Altamente Sugestiva a Malignidad,Quintana Roo,12
+22,Altamente Sugestiva a Malignidad,San Luis Potosí,27
+23,Altamente Sugestiva a Malignidad,Sinaloa,15
+24,Altamente Sugestiva a Malignidad,Sonora,20
+25,Altamente Sugestiva a Malignidad,Tabasco,29
+26,Altamente Sugestiva a Malignidad,Tamaulipas,101
+27,Altamente Sugestiva a Malignidad,Tlaxcala,26
+28,Altamente Sugestiva a Malignidad,Veracruz,12
+29,Altamente Sugestiva a Malignidad,Yucatán,9
+30,Altamente Sugestiva a Malignidad,Zacatecas,32
+31,Anormalidad Sospechosa,Aguascalientes,38
+32,Anormalidad Sospechosa,Baja California,16
+33,Anormalidad Sospechosa,Baja California Sur,14
+34,Anormalidad Sospechosa,Campeche,37
+35,Anormalidad Sospechosa,Chiapas,8
+36,Anormalidad Sospechosa,Chihuahua,61
+37,Anormalidad Sospechosa,Ciudad de México,537
+38,Anormalidad Sospechosa,Coahuila de Zaragoza,25
+39,Anormalidad Sospechosa,Colima,4
+40,Anormalidad Sospechosa,Durango,4
+41,Anormalidad Sospechosa,Estado de México,1067
+42,Anormalidad Sospechosa,Guanajuato,54
+43,Anormalidad Sospechosa,Guerrero,15
+44,Anormalidad Sospechosa,Hidalgo,93
+45,Anormalidad Sospechosa,Jalisco,308
+46,Anormalidad Sospechosa,Michoacán de Ocampo,325
+47,Anormalidad Sospechosa,Morelos,5
+48,Anormalidad Sospechosa,Nayarit,10
+49,Anormalidad Sospechosa,Nuevo León,131
+50,Anormalidad Sospechosa,Oaxaca,23
+51,Anormalidad Sospechosa,Puebla,181
+52,Anormalidad Sospechosa,Querétaro,176
+53,Anormalidad Sospechosa,Quintana Roo,4
+54,Anormalidad Sospechosa,San Luis Potosí,50
+55,Anormalidad Sospechosa,Sinaloa,33
+56,Anormalidad Sospechosa,Sonora,17
+57,Anormalidad Sospechosa,Tabasco,27
+58,Anormalidad Sospechosa,Tamaulipas,139
+59,Anormalidad Sospechosa,Tlaxcala,26
+60,Anormalidad Sospechosa,Veracruz,21
+61,Anormalidad Sospechosa,Yucatán,7
+62,Anormalidad Sospechosa,Zacatecas,38
+63,Baja Sospecha de Malignidad,Aguascalientes,26
+64,Baja Sospecha de Malignidad,Baja California,4
+65,Baja Sospecha de Malignidad,Campeche,5
+66,Baja Sospecha de Malignidad,Chiapas,6
+67,Baja Sospecha de Malignidad,Chihuahua,141
+68,Baja Sospecha de Malignidad,Ciudad de México,85
+69,Baja Sospecha de Malignidad,Coahuila de Zaragoza,2
+70,Baja Sospecha de Malignidad,Colima,19
+71,Baja Sospecha de Malignidad,Durango,2
+72,Baja Sospecha de Malignidad,Estado de México,44
+73,Baja Sospecha de Malignidad,Guanajuato,11
+74,Baja Sospecha de Malignidad,Guerrero,44
+75,Baja Sospecha de Malignidad,Hidalgo,39
+76,Baja Sospecha de Malignidad,Jalisco,140
+77,Baja Sospecha de Malignidad,Michoacán de Ocampo,34
+78,Baja Sospecha de Malignidad,Morelos,10
+79,Baja Sospecha de Malignidad,Nayarit,5
+80,Baja Sospecha de Malignidad,Nuevo León,15
+81,Baja Sospecha de Malignidad,Oaxaca,24
+82,Baja Sospecha de Malignidad,Puebla,90
+83,Baja Sospecha de Malignidad,Quintana Roo,13
+84,Baja Sospecha de Malignidad,San Luis Potosí,22
+85,Baja Sospecha de Malignidad,Sinaloa,2
+86,Baja Sospecha de Malignidad,Sonora,1
+87,Baja Sospecha de Malignidad,Tabasco,4
+88,Baja Sospecha de Malignidad,Tamaulipas,40
+89,Baja Sospecha de Malignidad,Tlaxcala,3
+90,Baja Sospecha de Malignidad,Veracruz,6
+91,Baja Sospecha de Malignidad,Yucatán,1
+92,Baja Sospecha de Malignidad,Zacatecas,17
+93,Benigna,Aguascalientes,9384
+94,Benigna,Baja California,8375
+95,Benigna,Baja California Sur,3176
+96,Benigna,Campeche,2255
+97,Benigna,Chiapas,521
+98,Benigna,Chihuahua,12672
+99,Benigna,Ciudad de México,76025
+100,Benigna,Coahuila de Zaragoza,6547
+101,Benigna,Colima,4943
+102,Benigna,Durango,12723
+103,Benigna,Estado de México,107881
+104,Benigna,Guanajuato,34171
+105,Benigna,Guerrero,25832
+106,Benigna,Hidalgo,20358
+107,Benigna,Jalisco,56097
+108,Benigna,Michoacán de Ocampo,49096
+109,Benigna,Morelos,4286
+110,Benigna,Nayarit,3187
+111,Benigna,Nuevo León,11255
+112,Benigna,Oaxaca,22038
+113,Benigna,Puebla,35393
+114,Benigna,Querétaro,21425
+115,Benigna,Quintana Roo,11121
+116,Benigna,San Luis Potosí,13753
+117,Benigna,Sinaloa,7136
+118,Benigna,Sonora,3593
+119,Benigna,Tabasco,13451
+120,Benigna,Tamaulipas,14706
+121,Benigna,Tlaxcala,3424
+122,Benigna,Veracruz,20338
+123,Benigna,Yucatán,5419
+124,Benigna,Zacatecas,8605
+125,Evaluación Adicional,Aguascalientes,103
+126,Evaluación Adicional,Baja California,1405
+127,Evaluación Adicional,Baja California Sur,1368
+128,Evaluación Adicional,Campeche,49
+129,Evaluación Adicional,Chiapas,154
+130,Evaluación Adicional,Chihuahua,5475
+131,Evaluación Adicional,Ciudad de México,7588
+132,Evaluación Adicional,Coahuila de Zaragoza,507
+133,Evaluación Adicional,Colima,337
+134,Evaluación Adicional,Durango,933
+135,Evaluación Adicional,Estado de México,7257
+136,Evaluación Adicional,Guanajuato,1172
+137,Evaluación Adicional,Guerrero,2746
+138,Evaluación Adicional,Hidalgo,2856
+139,Evaluación Adicional,Jalisco,2182
+140,Evaluación Adicional,Michoacán de Ocampo,4626
+141,Evaluación Adicional,Morelos,1440
+142,Evaluación Adicional,Nayarit,633
+143,Evaluación Adicional,Nuevo León,196
+144,Evaluación Adicional,Oaxaca,860
+145,Evaluación Adicional,Puebla,4838
+146,Evaluación Adicional,Querétaro,1812
+147,Evaluación Adicional,Quintana Roo,2686
+148,Evaluación Adicional,San Luis Potosí,4663
+149,Evaluación Adicional,Sinaloa,2072
+150,Evaluación Adicional,Sonora,1215
+151,Evaluación Adicional,Tabasco,379
+152,Evaluación Adicional,Tamaulipas,2418
+153,Evaluación Adicional,Tlaxcala,1064
+154,Evaluación Adicional,Veracruz,350
+155,Evaluación Adicional,Yucatán,5
+156,Evaluación Adicional,Zacatecas,5980
+157,Negativa,Aguascalientes,305
+158,Negativa,Baja California,2847
+159,Negativa,Baja California Sur,31
+160,Negativa,Campeche,2984
+161,Negativa,Chiapas,295
+162,Negativa,Chihuahua,808
+163,Negativa,Ciudad de México,5784
+164,Negativa,Coahuila de Zaragoza,1669
+165,Negativa,Colima,1555
+166,Negativa,Durango,3443
+167,Negativa,Estado de México,12943
+168,Negativa,Guanajuato,11562
+169,Negativa,Guerrero,3663
+170,Negativa,Hidalgo,1506
+171,Negativa,Jalisco,5598
+172,Negativa,Michoacán de Ocampo,1368
+173,Negativa,Morelos,16044
+174,Negativa,Nayarit,385
+175,Negativa,Nuevo León,9910
+176,Negativa,Oaxaca,2147
+177,Negativa,Puebla,4745
+178,Negativa,Querétaro,611
+179,Negativa,Quintana Roo,332
+180,Negativa,San Luis Potosí,5011
+181,Negativa,Sinaloa,2975
+182,Negativa,Sonora,2703
+183,Negativa,Tabasco,6875
+184,Negativa,Tamaulipas,5259
+185,Negativa,Tlaxcala,1970
+186,Negativa,Veracruz,3622
+187,Negativa,Yucatán,5629
+188,Negativa,Zacatecas,1579
+189,Probablemente Benigna,Aguascalientes,603
+190,Probablemente Benigna,Baja California,144
+191,Probablemente Benigna,Baja California Sur,53
+192,Probablemente Benigna,Campeche,217
+193,Probablemente Benigna,Chiapas,73
+194,Probablemente Benigna,Chihuahua,2055
+195,Probablemente Benigna,Ciudad de México,2114
+196,Probablemente Benigna,Coahuila de Zaragoza,467
+197,Probablemente Benigna,Colima,86
+198,Probablemente Benigna,Durango,584
+199,Probablemente Benigna,Estado de México,5645
+200,Probablemente Benigna,Guanajuato,197
+201,Probablemente Benigna,Guerrero,315
+202,Probablemente Benigna,Hidalgo,904
+203,Probablemente Benigna,Jalisco,1483
+204,Probablemente Benigna,Michoacán de Ocampo,2337
+205,Probablemente Benigna,Morelos,208
+206,Probablemente Benigna,Nayarit,76
+207,Probablemente Benigna,Nuevo León,272
+208,Probablemente Benigna,Oaxaca,430
+209,Probablemente Benigna,Puebla,1020
+210,Probablemente Benigna,Querétaro,275
+211,Probablemente Benigna,Quintana Roo,64
+212,Probablemente Benigna,San Luis Potosí,176
+213,Probablemente Benigna,Sinaloa,159
+214,Probablemente Benigna,Sonora,195
+215,Probablemente Benigna,Tabasco,1787
+216,Probablemente Benigna,Tamaulipas,597
+217,Probablemente Benigna,Tlaxcala,175
+218,Probablemente Benigna,Veracruz,420
+219,Probablemente Benigna,Yucatán,62
+220,Probablemente Benigna,Zacatecas,334
+221,Riesgo Intermedio de Malignidad,Aguascalientes,21
+222,Riesgo Intermedio de Malignidad,Baja California,4
+223,Riesgo Intermedio de Malignidad,Campeche,7
+224,Riesgo Intermedio de Malignidad,Chiapas,3
+225,Riesgo Intermedio de Malignidad,Chihuahua,153
+226,Riesgo Intermedio de Malignidad,Ciudad de México,58
+227,Riesgo Intermedio de Malignidad,Coahuila de Zaragoza,7
+228,Riesgo Intermedio de Malignidad,Colima,4
+229,Riesgo Intermedio de Malignidad,Durango,6
+230,Riesgo Intermedio de Malignidad,Estado de México,23
+231,Riesgo Intermedio de Malignidad,Guanajuato,9
+232,Riesgo Intermedio de Malignidad,Guerrero,18
+233,Riesgo Intermedio de Malignidad,Hidalgo,25
+234,Riesgo Intermedio de Malignidad,Jalisco,190
+235,Riesgo Intermedio de Malignidad,Michoacán de Ocampo,22
+236,Riesgo Intermedio de Malignidad,Morelos,12
+237,Riesgo Intermedio de Malignidad,Nayarit,4
+238,Riesgo Intermedio de Malignidad,Nuevo León,38
+239,Riesgo Intermedio de Malignidad,Oaxaca,24
+240,Riesgo Intermedio de Malignidad,Puebla,30
+241,Riesgo Intermedio de Malignidad,Quintana Roo,28
+242,Riesgo Intermedio de Malignidad,San Luis Potosí,13
+243,Riesgo Intermedio de Malignidad,Sinaloa,2
+244,Riesgo Intermedio de Malignidad,Sonora,1
+245,Riesgo Intermedio de Malignidad,Tabasco,2
+246,Riesgo Intermedio de Malignidad,Tamaulipas,11
+247,Riesgo Intermedio de Malignidad,Tlaxcala,4
+248,Riesgo Intermedio de Malignidad,Veracruz,4
+249,Riesgo Intermedio de Malignidad,Zacatecas,30
+250,Riesgo Moderado de Malignidad,Aguascalientes,8
+251,Riesgo Moderado de Malignidad,Baja California,6
+252,Riesgo Moderado de Malignidad,Campeche,3
+253,Riesgo Moderado de Malignidad,Chihuahua,75
+254,Riesgo Moderado de Malignidad,Ciudad de México,30
+255,Riesgo Moderado de Malignidad,Coahuila de Zaragoza,3
+256,Riesgo Moderado de Malignidad,Colima,3
+257,Riesgo Moderado de Malignidad,Durango,9
+258,Riesgo Moderado de Malignidad,Estado de México,11
+259,Riesgo Moderado de Malignidad,Guanajuato,12
+260,Riesgo Moderado de Malignidad,Guerrero,2
+261,Riesgo Moderado de Malignidad,Hidalgo,17
+262,Riesgo Moderado de Malignidad,Jalisco,57
+263,Riesgo Moderado de Malignidad,Michoacán de Ocampo,3
+264,Riesgo Moderado de Malignidad,Morelos,3
+265,Riesgo Moderado de Malignidad,Nayarit,3
+266,Riesgo Moderado de Malignidad,Nuevo León,12
+267,Riesgo Moderado de Malignidad,Oaxaca,5
+268,Riesgo Moderado de Malignidad,Puebla,36
+269,Riesgo Moderado de Malignidad,Quintana Roo,8
+270,Riesgo Moderado de Malignidad,San Luis Potosí,8
+271,Riesgo Moderado de Malignidad,Sinaloa,1
+272,Riesgo Moderado de Malignidad,Sonora,4
+273,Riesgo Moderado de Malignidad,Tabasco,2
+274,Riesgo Moderado de Malignidad,Tamaulipas,9
+275,Riesgo Moderado de Malignidad,Tlaxcala,1
+276,Riesgo Moderado de Malignidad,Veracruz,2
+277,Riesgo Moderado de Malignidad,Zacatecas,11
