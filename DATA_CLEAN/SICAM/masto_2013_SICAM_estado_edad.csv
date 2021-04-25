@@ -1,0 +1,1387 @@
+,estado,edad,cuenta
+0,Aguascalientes,25,1
+1,Aguascalientes,29,2
+2,Aguascalientes,30,1
+3,Aguascalientes,31,2
+4,Aguascalientes,32,1
+5,Aguascalientes,33,4
+6,Aguascalientes,34,3
+7,Aguascalientes,35,10
+8,Aguascalientes,36,14
+9,Aguascalientes,37,21
+10,Aguascalientes,38,31
+11,Aguascalientes,39,47
+12,Aguascalientes,40,355
+13,Aguascalientes,41,378
+14,Aguascalientes,42,380
+15,Aguascalientes,43,394
+16,Aguascalientes,44,384
+17,Aguascalientes,45,396
+18,Aguascalientes,46,355
+19,Aguascalientes,47,368
+20,Aguascalientes,48,364
+21,Aguascalientes,49,363
+22,Aguascalientes,50,340
+23,Aguascalientes,51,322
+24,Aguascalientes,52,290
+25,Aguascalientes,53,332
+26,Aguascalientes,54,275
+27,Aguascalientes,55,233
+28,Aguascalientes,56,250
+29,Aguascalientes,57,232
+30,Aguascalientes,58,204
+31,Aguascalientes,59,164
+32,Aguascalientes,60,155
+33,Aguascalientes,61,138
+34,Aguascalientes,62,121
+35,Aguascalientes,63,107
+36,Aguascalientes,64,126
+37,Aguascalientes,65,75
+38,Aguascalientes,66,88
+39,Aguascalientes,67,69
+40,Aguascalientes,68,79
+41,Aguascalientes,69,54
+42,Baja California,25,3
+43,Baja California,26,5
+44,Baja California,27,6
+45,Baja California,28,4
+46,Baja California,29,8
+47,Baja California,30,4
+48,Baja California,31,6
+49,Baja California,32,4
+50,Baja California,33,7
+51,Baja California,34,12
+52,Baja California,35,9
+53,Baja California,36,19
+54,Baja California,37,44
+55,Baja California,38,48
+56,Baja California,39,202
+57,Baja California,40,1150
+58,Baja California,41,1114
+59,Baja California,42,1124
+60,Baja California,43,1138
+61,Baja California,44,1041
+62,Baja California,45,1041
+63,Baja California,46,1016
+64,Baja California,47,1026
+65,Baja California,48,995
+66,Baja California,49,1207
+67,Baja California,50,1888
+68,Baja California,51,1430
+69,Baja California,52,1463
+70,Baja California,53,1476
+71,Baja California,54,1217
+72,Baja California,55,1160
+73,Baja California,56,1068
+74,Baja California,57,1008
+75,Baja California,58,872
+76,Baja California,59,831
+77,Baja California,60,717
+78,Baja California,61,600
+79,Baja California,62,585
+80,Baja California,63,459
+81,Baja California,64,503
+82,Baja California,65,409
+83,Baja California,66,247
+84,Baja California,67,211
+85,Baja California,68,211
+86,Baja California,69,152
+87,Baja California Sur,29,1
+88,Baja California Sur,33,1
+89,Baja California Sur,34,1
+90,Baja California Sur,35,6
+91,Baja California Sur,36,8
+92,Baja California Sur,37,16
+93,Baja California Sur,38,21
+94,Baja California Sur,39,59
+95,Baja California Sur,40,229
+96,Baja California Sur,41,224
+97,Baja California Sur,42,229
+98,Baja California Sur,43,243
+99,Baja California Sur,44,264
+100,Baja California Sur,45,240
+101,Baja California Sur,46,232
+102,Baja California Sur,47,234
+103,Baja California Sur,48,216
+104,Baja California Sur,49,229
+105,Baja California Sur,50,236
+106,Baja California Sur,51,222
+107,Baja California Sur,52,223
+108,Baja California Sur,53,191
+109,Baja California Sur,54,163
+110,Baja California Sur,55,154
+111,Baja California Sur,56,134
+112,Baja California Sur,57,128
+113,Baja California Sur,58,129
+114,Baja California Sur,59,120
+115,Baja California Sur,60,98
+116,Baja California Sur,61,84
+117,Baja California Sur,62,88
+118,Baja California Sur,63,70
+119,Baja California Sur,64,75
+120,Baja California Sur,65,50
+121,Baja California Sur,66,56
+122,Baja California Sur,67,49
+123,Baja California Sur,68,43
+124,Baja California Sur,69,38
+125,Campeche,25,2
+126,Campeche,28,3
+127,Campeche,29,1
+128,Campeche,30,5
+129,Campeche,31,3
+130,Campeche,32,6
+131,Campeche,33,7
+132,Campeche,34,12
+133,Campeche,35,9
+134,Campeche,36,13
+135,Campeche,37,31
+136,Campeche,38,38
+137,Campeche,39,166
+138,Campeche,40,655
+139,Campeche,41,606
+140,Campeche,42,630
+141,Campeche,43,607
+142,Campeche,44,620
+143,Campeche,45,582
+144,Campeche,46,570
+145,Campeche,47,588
+146,Campeche,48,534
+147,Campeche,49,687
+148,Campeche,50,902
+149,Campeche,51,695
+150,Campeche,52,593
+151,Campeche,53,563
+152,Campeche,54,447
+153,Campeche,55,411
+154,Campeche,56,414
+155,Campeche,57,370
+156,Campeche,58,354
+157,Campeche,59,321
+158,Campeche,60,315
+159,Campeche,61,241
+160,Campeche,62,266
+161,Campeche,63,246
+162,Campeche,64,216
+163,Campeche,65,194
+164,Campeche,66,202
+165,Campeche,67,155
+166,Campeche,68,134
+167,Campeche,69,110
+168,Chiapas,27,1
+169,Chiapas,31,2
+170,Chiapas,33,5
+171,Chiapas,34,4
+172,Chiapas,35,5
+173,Chiapas,36,1
+174,Chiapas,37,11
+175,Chiapas,38,22
+176,Chiapas,39,42
+177,Chiapas,40,226
+178,Chiapas,41,213
+179,Chiapas,42,220
+180,Chiapas,43,199
+181,Chiapas,44,201
+182,Chiapas,45,203
+183,Chiapas,46,207
+184,Chiapas,47,184
+185,Chiapas,48,192
+186,Chiapas,49,199
+187,Chiapas,50,202
+188,Chiapas,51,174
+189,Chiapas,52,192
+190,Chiapas,53,160
+191,Chiapas,54,172
+192,Chiapas,55,140
+193,Chiapas,56,132
+194,Chiapas,57,144
+195,Chiapas,58,139
+196,Chiapas,59,126
+197,Chiapas,60,105
+198,Chiapas,61,62
+199,Chiapas,62,73
+200,Chiapas,63,58
+201,Chiapas,64,62
+202,Chiapas,65,51
+203,Chiapas,66,46
+204,Chiapas,67,43
+205,Chiapas,68,36
+206,Chiapas,69,26
+207,Chihuahua,25,12
+208,Chihuahua,26,11
+209,Chihuahua,27,9
+210,Chihuahua,28,11
+211,Chihuahua,29,14
+212,Chihuahua,30,12
+213,Chihuahua,31,20
+214,Chihuahua,32,17
+215,Chihuahua,33,30
+216,Chihuahua,34,30
+217,Chihuahua,35,58
+218,Chihuahua,36,79
+219,Chihuahua,37,97
+220,Chihuahua,38,162
+221,Chihuahua,39,332
+222,Chihuahua,40,1132
+223,Chihuahua,41,1079
+224,Chihuahua,42,982
+225,Chihuahua,43,1027
+226,Chihuahua,44,996
+227,Chihuahua,45,1043
+228,Chihuahua,46,945
+229,Chihuahua,47,892
+230,Chihuahua,48,923
+231,Chihuahua,49,883
+232,Chihuahua,50,890
+233,Chihuahua,51,785
+234,Chihuahua,52,836
+235,Chihuahua,53,722
+236,Chihuahua,54,680
+237,Chihuahua,55,542
+238,Chihuahua,56,553
+239,Chihuahua,57,471
+240,Chihuahua,58,485
+241,Chihuahua,59,418
+242,Chihuahua,60,360
+243,Chihuahua,61,296
+244,Chihuahua,62,308
+245,Chihuahua,63,297
+246,Chihuahua,64,257
+247,Chihuahua,65,221
+248,Chihuahua,66,183
+249,Chihuahua,67,177
+250,Chihuahua,68,153
+251,Chihuahua,69,138
+252,Ciudad de México,25,4
+253,Ciudad de México,26,4
+254,Ciudad de México,27,1
+255,Ciudad de México,28,6
+256,Ciudad de México,29,2
+257,Ciudad de México,30,3
+258,Ciudad de México,31,3
+259,Ciudad de México,32,11
+260,Ciudad de México,33,16
+261,Ciudad de México,34,22
+262,Ciudad de México,35,26
+263,Ciudad de México,36,36
+264,Ciudad de México,37,59
+265,Ciudad de México,38,99
+266,Ciudad de México,39,646
+267,Ciudad de México,40,4461
+268,Ciudad de México,41,4413
+269,Ciudad de México,42,4330
+270,Ciudad de México,43,4479
+271,Ciudad de México,44,4431
+272,Ciudad de México,45,4489
+273,Ciudad de México,46,4251
+274,Ciudad de México,47,4275
+275,Ciudad de México,48,4408
+276,Ciudad de México,49,4424
+277,Ciudad de México,50,4353
+278,Ciudad de México,51,3954
+279,Ciudad de México,52,3767
+280,Ciudad de México,53,3671
+281,Ciudad de México,54,3518
+282,Ciudad de México,55,3251
+283,Ciudad de México,56,3104
+284,Ciudad de México,57,2842
+285,Ciudad de México,58,2703
+286,Ciudad de México,59,2390
+287,Ciudad de México,60,2298
+288,Ciudad de México,61,2002
+289,Ciudad de México,62,1990
+290,Ciudad de México,63,1741
+291,Ciudad de México,64,1535
+292,Ciudad de México,65,1535
+293,Ciudad de México,66,1288
+294,Ciudad de México,67,1203
+295,Ciudad de México,68,1068
+296,Ciudad de México,69,986
+297,Coahuila de Zaragoza,25,1
+298,Coahuila de Zaragoza,26,3
+299,Coahuila de Zaragoza,27,1
+300,Coahuila de Zaragoza,28,5
+301,Coahuila de Zaragoza,29,4
+302,Coahuila de Zaragoza,30,10
+303,Coahuila de Zaragoza,31,12
+304,Coahuila de Zaragoza,32,11
+305,Coahuila de Zaragoza,33,18
+306,Coahuila de Zaragoza,34,31
+307,Coahuila de Zaragoza,35,57
+308,Coahuila de Zaragoza,36,71
+309,Coahuila de Zaragoza,37,99
+310,Coahuila de Zaragoza,38,151
+311,Coahuila de Zaragoza,39,220
+312,Coahuila de Zaragoza,40,654
+313,Coahuila de Zaragoza,41,674
+314,Coahuila de Zaragoza,42,663
+315,Coahuila de Zaragoza,43,635
+316,Coahuila de Zaragoza,44,694
+317,Coahuila de Zaragoza,45,636
+318,Coahuila de Zaragoza,46,651
+319,Coahuila de Zaragoza,47,636
+320,Coahuila de Zaragoza,48,669
+321,Coahuila de Zaragoza,49,614
+322,Coahuila de Zaragoza,50,613
+323,Coahuila de Zaragoza,51,551
+324,Coahuila de Zaragoza,52,523
+325,Coahuila de Zaragoza,53,512
+326,Coahuila de Zaragoza,54,475
+327,Coahuila de Zaragoza,55,436
+328,Coahuila de Zaragoza,56,405
+329,Coahuila de Zaragoza,57,405
+330,Coahuila de Zaragoza,58,315
+331,Coahuila de Zaragoza,59,329
+332,Coahuila de Zaragoza,60,250
+333,Coahuila de Zaragoza,61,203
+334,Coahuila de Zaragoza,62,219
+335,Coahuila de Zaragoza,63,237
+336,Coahuila de Zaragoza,64,184
+337,Coahuila de Zaragoza,65,152
+338,Coahuila de Zaragoza,66,158
+339,Coahuila de Zaragoza,67,142
+340,Coahuila de Zaragoza,68,127
+341,Coahuila de Zaragoza,69,111
+342,Colima,28,2
+343,Colima,29,1
+344,Colima,30,1
+345,Colima,31,1
+346,Colima,32,4
+347,Colima,33,5
+348,Colima,34,6
+349,Colima,35,5
+350,Colima,36,5
+351,Colima,37,9
+352,Colima,38,4
+353,Colima,39,10
+354,Colima,40,156
+355,Colima,41,178
+356,Colima,42,183
+357,Colima,43,160
+358,Colima,44,150
+359,Colima,45,176
+360,Colima,46,153
+361,Colima,47,165
+362,Colima,48,178
+363,Colima,49,177
+364,Colima,50,211
+365,Colima,51,182
+366,Colima,52,176
+367,Colima,53,155
+368,Colima,54,145
+369,Colima,55,148
+370,Colima,56,137
+371,Colima,57,110
+372,Colima,58,106
+373,Colima,59,98
+374,Colima,60,87
+375,Colima,61,98
+376,Colima,62,77
+377,Colima,63,83
+378,Colima,64,67
+379,Colima,65,67
+380,Colima,66,42
+381,Colima,67,46
+382,Colima,68,38
+383,Colima,69,27
+384,Durango,25,3
+385,Durango,26,2
+386,Durango,27,1
+387,Durango,28,1
+388,Durango,29,2
+389,Durango,30,2
+390,Durango,31,1
+391,Durango,33,3
+392,Durango,34,11
+393,Durango,35,14
+394,Durango,36,21
+395,Durango,37,40
+396,Durango,38,49
+397,Durango,39,132
+398,Durango,40,494
+399,Durango,41,510
+400,Durango,42,522
+401,Durango,43,511
+402,Durango,44,493
+403,Durango,45,479
+404,Durango,46,470
+405,Durango,47,477
+406,Durango,48,447
+407,Durango,49,506
+408,Durango,50,662
+409,Durango,51,437
+410,Durango,52,468
+411,Durango,53,446
+412,Durango,54,385
+413,Durango,55,334
+414,Durango,56,325
+415,Durango,57,299
+416,Durango,58,307
+417,Durango,59,232
+418,Durango,60,233
+419,Durango,61,223
+420,Durango,62,224
+421,Durango,63,186
+422,Durango,64,138
+423,Durango,65,153
+424,Durango,66,97
+425,Durango,67,104
+426,Durango,68,96
+427,Durango,69,81
+428,Estado de México,25,98
+429,Estado de México,26,109
+430,Estado de México,27,120
+431,Estado de México,28,98
+432,Estado de México,29,108
+433,Estado de México,30,124
+434,Estado de México,31,115
+435,Estado de México,32,114
+436,Estado de México,33,134
+437,Estado de México,34,161
+438,Estado de México,35,148
+439,Estado de México,36,196
+440,Estado de México,37,184
+441,Estado de México,38,204
+442,Estado de México,39,774
+443,Estado de México,40,8711
+444,Estado de México,41,7658
+445,Estado de México,42,7426
+446,Estado de México,43,7225
+447,Estado de México,44,7252
+448,Estado de México,45,6898
+449,Estado de México,46,6636
+450,Estado de México,47,6685
+451,Estado de México,48,6143
+452,Estado de México,49,5955
+453,Estado de México,50,5755
+454,Estado de México,51,5083
+455,Estado de México,52,4932
+456,Estado de México,53,4620
+457,Estado de México,54,4313
+458,Estado de México,55,3944
+459,Estado de México,56,3675
+460,Estado de México,57,3300
+461,Estado de México,58,3157
+462,Estado de México,59,2699
+463,Estado de México,60,2517
+464,Estado de México,61,2234
+465,Estado de México,62,2062
+466,Estado de México,63,1795
+467,Estado de México,64,1553
+468,Estado de México,65,1391
+469,Estado de México,66,1298
+470,Estado de México,67,1077
+471,Estado de México,68,923
+472,Estado de México,69,765
+473,Guanajuato,25,2
+474,Guanajuato,26,1
+475,Guanajuato,27,1
+476,Guanajuato,30,7
+477,Guanajuato,31,7
+478,Guanajuato,32,12
+479,Guanajuato,33,11
+480,Guanajuato,34,28
+481,Guanajuato,35,33
+482,Guanajuato,36,39
+483,Guanajuato,37,53
+484,Guanajuato,38,63
+485,Guanajuato,39,165
+486,Guanajuato,40,1235
+487,Guanajuato,41,1388
+488,Guanajuato,42,1387
+489,Guanajuato,43,1419
+490,Guanajuato,44,1452
+491,Guanajuato,45,1489
+492,Guanajuato,46,1380
+493,Guanajuato,47,1413
+494,Guanajuato,48,1413
+495,Guanajuato,49,1500
+496,Guanajuato,50,2536
+497,Guanajuato,51,2322
+498,Guanajuato,52,2354
+499,Guanajuato,53,2350
+500,Guanajuato,54,2265
+501,Guanajuato,55,2000
+502,Guanajuato,56,2018
+503,Guanajuato,57,1841
+504,Guanajuato,58,1794
+505,Guanajuato,59,1627
+506,Guanajuato,60,1482
+507,Guanajuato,61,1233
+508,Guanajuato,62,1209
+509,Guanajuato,63,1104
+510,Guanajuato,64,990
+511,Guanajuato,65,878
+512,Guanajuato,66,769
+513,Guanajuato,67,753
+514,Guanajuato,68,578
+515,Guanajuato,69,495
+516,Guerrero,26,2
+517,Guerrero,27,1
+518,Guerrero,28,4
+519,Guerrero,29,1
+520,Guerrero,30,3
+521,Guerrero,31,8
+522,Guerrero,32,3
+523,Guerrero,34,5
+524,Guerrero,35,14
+525,Guerrero,36,17
+526,Guerrero,37,20
+527,Guerrero,38,36
+528,Guerrero,39,139
+529,Guerrero,40,1209
+530,Guerrero,41,1149
+531,Guerrero,42,1004
+532,Guerrero,43,1155
+533,Guerrero,44,1119
+534,Guerrero,45,1034
+535,Guerrero,46,1091
+536,Guerrero,47,1093
+537,Guerrero,48,1033
+538,Guerrero,49,1032
+539,Guerrero,50,1042
+540,Guerrero,51,974
+541,Guerrero,52,933
+542,Guerrero,53,982
+543,Guerrero,54,786
+544,Guerrero,55,758
+545,Guerrero,56,687
+546,Guerrero,57,695
+547,Guerrero,58,614
+548,Guerrero,59,565
+549,Guerrero,60,523
+550,Guerrero,61,481
+551,Guerrero,62,457
+552,Guerrero,63,433
+553,Guerrero,64,397
+554,Guerrero,65,369
+555,Guerrero,66,281
+556,Guerrero,67,279
+557,Guerrero,68,264
+558,Guerrero,69,216
+559,Hidalgo,25,1
+560,Hidalgo,26,2
+561,Hidalgo,27,2
+562,Hidalgo,28,2
+563,Hidalgo,29,2
+564,Hidalgo,30,3
+565,Hidalgo,31,5
+566,Hidalgo,32,5
+567,Hidalgo,33,12
+568,Hidalgo,34,15
+569,Hidalgo,35,18
+570,Hidalgo,36,36
+571,Hidalgo,37,45
+572,Hidalgo,38,69
+573,Hidalgo,39,231
+574,Hidalgo,40,1854
+575,Hidalgo,41,1735
+576,Hidalgo,42,1700
+577,Hidalgo,43,1740
+578,Hidalgo,44,1675
+579,Hidalgo,45,1603
+580,Hidalgo,46,1668
+581,Hidalgo,47,1656
+582,Hidalgo,48,1454
+583,Hidalgo,49,1493
+584,Hidalgo,50,1555
+585,Hidalgo,51,1444
+586,Hidalgo,52,1393
+587,Hidalgo,53,1376
+588,Hidalgo,54,1328
+589,Hidalgo,55,1158
+590,Hidalgo,56,1109
+591,Hidalgo,57,1124
+592,Hidalgo,58,942
+593,Hidalgo,59,846
+594,Hidalgo,60,835
+595,Hidalgo,61,698
+596,Hidalgo,62,730
+597,Hidalgo,63,681
+598,Hidalgo,64,543
+599,Hidalgo,65,537
+600,Hidalgo,66,435
+601,Hidalgo,67,509
+602,Hidalgo,68,346
+603,Hidalgo,69,302
+604,Jalisco,25,1
+605,Jalisco,26,6
+606,Jalisco,27,3
+607,Jalisco,28,13
+608,Jalisco,29,9
+609,Jalisco,30,16
+610,Jalisco,31,19
+611,Jalisco,32,16
+612,Jalisco,33,18
+613,Jalisco,34,58
+614,Jalisco,35,123
+615,Jalisco,36,142
+616,Jalisco,37,178
+617,Jalisco,38,253
+618,Jalisco,39,398
+619,Jalisco,40,2599
+620,Jalisco,41,2414
+621,Jalisco,42,2400
+622,Jalisco,43,2416
+623,Jalisco,44,2272
+624,Jalisco,45,2426
+625,Jalisco,46,2253
+626,Jalisco,47,2371
+627,Jalisco,48,2184
+628,Jalisco,49,2159
+629,Jalisco,50,2041
+630,Jalisco,51,1861
+631,Jalisco,52,1877
+632,Jalisco,53,1759
+633,Jalisco,54,1682
+634,Jalisco,55,1480
+635,Jalisco,56,1494
+636,Jalisco,57,1299
+637,Jalisco,58,1266
+638,Jalisco,59,1177
+639,Jalisco,60,1080
+640,Jalisco,61,901
+641,Jalisco,62,828
+642,Jalisco,63,784
+643,Jalisco,64,747
+644,Jalisco,65,634
+645,Jalisco,66,585
+646,Jalisco,67,530
+647,Jalisco,68,475
+648,Jalisco,69,455
+649,Michoacán de Ocampo,26,3
+650,Michoacán de Ocampo,27,2
+651,Michoacán de Ocampo,28,4
+652,Michoacán de Ocampo,30,4
+653,Michoacán de Ocampo,31,2
+654,Michoacán de Ocampo,32,4
+655,Michoacán de Ocampo,33,13
+656,Michoacán de Ocampo,34,6
+657,Michoacán de Ocampo,35,11
+658,Michoacán de Ocampo,36,16
+659,Michoacán de Ocampo,37,34
+660,Michoacán de Ocampo,38,40
+661,Michoacán de Ocampo,39,99
+662,Michoacán de Ocampo,40,465
+663,Michoacán de Ocampo,41,514
+664,Michoacán de Ocampo,42,506
+665,Michoacán de Ocampo,43,553
+666,Michoacán de Ocampo,44,538
+667,Michoacán de Ocampo,45,579
+668,Michoacán de Ocampo,46,563
+669,Michoacán de Ocampo,47,579
+670,Michoacán de Ocampo,48,551
+671,Michoacán de Ocampo,49,553
+672,Michoacán de Ocampo,50,550
+673,Michoacán de Ocampo,51,469
+674,Michoacán de Ocampo,52,476
+675,Michoacán de Ocampo,53,438
+676,Michoacán de Ocampo,54,427
+677,Michoacán de Ocampo,55,423
+678,Michoacán de Ocampo,56,395
+679,Michoacán de Ocampo,57,306
+680,Michoacán de Ocampo,58,340
+681,Michoacán de Ocampo,59,294
+682,Michoacán de Ocampo,60,264
+683,Michoacán de Ocampo,61,235
+684,Michoacán de Ocampo,62,221
+685,Michoacán de Ocampo,63,186
+686,Michoacán de Ocampo,64,172
+687,Michoacán de Ocampo,65,159
+688,Michoacán de Ocampo,66,158
+689,Michoacán de Ocampo,67,134
+690,Michoacán de Ocampo,68,118
+691,Michoacán de Ocampo,69,77
+692,Morelos,25,2
+693,Morelos,26,2
+694,Morelos,27,5
+695,Morelos,28,5
+696,Morelos,29,4
+697,Morelos,30,4
+698,Morelos,31,8
+699,Morelos,32,14
+700,Morelos,33,13
+701,Morelos,34,16
+702,Morelos,35,25
+703,Morelos,36,26
+704,Morelos,37,41
+705,Morelos,38,62
+706,Morelos,39,168
+707,Morelos,40,920
+708,Morelos,41,940
+709,Morelos,42,1015
+710,Morelos,43,904
+711,Morelos,44,984
+712,Morelos,45,881
+713,Morelos,46,934
+714,Morelos,47,924
+715,Morelos,48,952
+716,Morelos,49,940
+717,Morelos,50,1079
+718,Morelos,51,825
+719,Morelos,52,814
+720,Morelos,53,777
+721,Morelos,54,701
+722,Morelos,55,654
+723,Morelos,56,623
+724,Morelos,57,630
+725,Morelos,58,565
+726,Morelos,59,517
+727,Morelos,60,454
+728,Morelos,61,375
+729,Morelos,62,379
+730,Morelos,63,430
+731,Morelos,64,317
+732,Morelos,65,318
+733,Morelos,66,293
+734,Morelos,67,242
+735,Morelos,68,237
+736,Morelos,69,184
+737,Nayarit,25,2
+738,Nayarit,28,2
+739,Nayarit,29,1
+740,Nayarit,30,1
+741,Nayarit,31,1
+742,Nayarit,32,2
+743,Nayarit,33,4
+744,Nayarit,34,9
+745,Nayarit,35,17
+746,Nayarit,36,17
+747,Nayarit,37,23
+748,Nayarit,38,26
+749,Nayarit,39,39
+750,Nayarit,40,95
+751,Nayarit,41,120
+752,Nayarit,42,124
+753,Nayarit,43,118
+754,Nayarit,44,109
+755,Nayarit,45,146
+756,Nayarit,46,156
+757,Nayarit,47,136
+758,Nayarit,48,134
+759,Nayarit,49,162
+760,Nayarit,50,386
+761,Nayarit,51,336
+762,Nayarit,52,307
+763,Nayarit,53,314
+764,Nayarit,54,314
+765,Nayarit,55,289
+766,Nayarit,56,277
+767,Nayarit,57,284
+768,Nayarit,58,261
+769,Nayarit,59,212
+770,Nayarit,60,214
+771,Nayarit,61,188
+772,Nayarit,62,200
+773,Nayarit,63,152
+774,Nayarit,64,133
+775,Nayarit,65,122
+776,Nayarit,66,107
+777,Nayarit,67,110
+778,Nayarit,68,113
+779,Nayarit,69,117
+780,Nuevo León,25,8
+781,Nuevo León,26,12
+782,Nuevo León,27,22
+783,Nuevo León,28,16
+784,Nuevo León,29,16
+785,Nuevo León,30,25
+786,Nuevo León,31,22
+787,Nuevo León,32,34
+788,Nuevo León,33,52
+789,Nuevo León,34,72
+790,Nuevo León,35,150
+791,Nuevo León,36,171
+792,Nuevo León,37,269
+793,Nuevo León,38,339
+794,Nuevo León,39,663
+795,Nuevo León,40,1930
+796,Nuevo León,41,1709
+797,Nuevo León,42,1644
+798,Nuevo León,43,1580
+799,Nuevo León,44,1665
+800,Nuevo León,45,1623
+801,Nuevo León,46,1497
+802,Nuevo León,47,1559
+803,Nuevo León,48,1420
+804,Nuevo León,49,1307
+805,Nuevo León,50,1268
+806,Nuevo León,51,1145
+807,Nuevo León,52,1083
+808,Nuevo León,53,1095
+809,Nuevo León,54,972
+810,Nuevo León,55,843
+811,Nuevo León,56,806
+812,Nuevo León,57,688
+813,Nuevo León,58,680
+814,Nuevo León,59,582
+815,Nuevo León,60,492
+816,Nuevo León,61,509
+817,Nuevo León,62,468
+818,Nuevo León,63,430
+819,Nuevo León,64,402
+820,Nuevo León,65,343
+821,Nuevo León,66,311
+822,Nuevo León,67,296
+823,Nuevo León,68,249
+824,Nuevo León,69,210
+825,Oaxaca,29,2
+826,Oaxaca,30,1
+827,Oaxaca,33,1
+828,Oaxaca,34,2
+829,Oaxaca,35,4
+830,Oaxaca,36,9
+831,Oaxaca,37,5
+832,Oaxaca,38,13
+833,Oaxaca,39,65
+834,Oaxaca,40,656
+835,Oaxaca,41,729
+836,Oaxaca,42,741
+837,Oaxaca,43,700
+838,Oaxaca,44,700
+839,Oaxaca,45,773
+840,Oaxaca,46,712
+841,Oaxaca,47,627
+842,Oaxaca,48,700
+843,Oaxaca,49,670
+844,Oaxaca,50,675
+845,Oaxaca,51,660
+846,Oaxaca,52,630
+847,Oaxaca,53,614
+848,Oaxaca,54,577
+849,Oaxaca,55,571
+850,Oaxaca,56,505
+851,Oaxaca,57,500
+852,Oaxaca,58,482
+853,Oaxaca,59,440
+854,Oaxaca,60,378
+855,Oaxaca,61,318
+856,Oaxaca,62,318
+857,Oaxaca,63,281
+858,Oaxaca,64,241
+859,Oaxaca,65,225
+860,Oaxaca,66,181
+861,Oaxaca,67,178
+862,Oaxaca,68,149
+863,Oaxaca,69,120
+864,Puebla,25,4
+865,Puebla,26,2
+866,Puebla,27,1
+867,Puebla,28,4
+868,Puebla,29,10
+869,Puebla,30,8
+870,Puebla,31,18
+871,Puebla,32,14
+872,Puebla,33,12
+873,Puebla,34,25
+874,Puebla,35,39
+875,Puebla,36,56
+876,Puebla,37,72
+877,Puebla,38,127
+878,Puebla,39,627
+879,Puebla,40,3756
+880,Puebla,41,3511
+881,Puebla,42,3304
+882,Puebla,43,3331
+883,Puebla,44,3296
+884,Puebla,45,3281
+885,Puebla,46,3174
+886,Puebla,47,3029
+887,Puebla,48,3079
+888,Puebla,49,2947
+889,Puebla,50,2880
+890,Puebla,51,2635
+891,Puebla,52,2434
+892,Puebla,53,2530
+893,Puebla,54,2237
+894,Puebla,55,2026
+895,Puebla,56,1931
+896,Puebla,57,1889
+897,Puebla,58,1805
+898,Puebla,59,1585
+899,Puebla,60,1515
+900,Puebla,61,1252
+901,Puebla,62,1217
+902,Puebla,63,1138
+903,Puebla,64,896
+904,Puebla,65,885
+905,Puebla,66,838
+906,Puebla,67,685
+907,Puebla,68,675
+908,Puebla,69,480
+909,Querétaro,26,1
+910,Querétaro,27,2
+911,Querétaro,29,2
+912,Querétaro,30,5
+913,Querétaro,31,7
+914,Querétaro,32,9
+915,Querétaro,33,16
+916,Querétaro,34,9
+917,Querétaro,35,33
+918,Querétaro,36,42
+919,Querétaro,37,47
+920,Querétaro,38,84
+921,Querétaro,39,146
+922,Querétaro,40,1026
+923,Querétaro,41,1167
+924,Querétaro,42,1144
+925,Querétaro,43,1068
+926,Querétaro,44,1136
+927,Querétaro,45,1133
+928,Querétaro,46,1144
+929,Querétaro,47,1089
+930,Querétaro,48,1043
+931,Querétaro,49,1051
+932,Querétaro,50,1079
+933,Querétaro,51,925
+934,Querétaro,52,877
+935,Querétaro,53,838
+936,Querétaro,54,825
+937,Querétaro,55,731
+938,Querétaro,56,728
+939,Querétaro,57,652
+940,Querétaro,58,614
+941,Querétaro,59,516
+942,Querétaro,60,531
+943,Querétaro,61,455
+944,Querétaro,62,365
+945,Querétaro,63,367
+946,Querétaro,64,344
+947,Querétaro,65,314
+948,Querétaro,66,289
+949,Querétaro,67,250
+950,Querétaro,68,227
+951,Querétaro,69,190
+952,Quintana Roo,25,2
+953,Quintana Roo,26,4
+954,Quintana Roo,27,2
+955,Quintana Roo,28,5
+956,Quintana Roo,29,4
+957,Quintana Roo,30,5
+958,Quintana Roo,31,10
+959,Quintana Roo,32,4
+960,Quintana Roo,33,13
+961,Quintana Roo,34,4
+962,Quintana Roo,35,13
+963,Quintana Roo,36,29
+964,Quintana Roo,37,26
+965,Quintana Roo,38,47
+966,Quintana Roo,39,90
+967,Quintana Roo,40,564
+968,Quintana Roo,41,565
+969,Quintana Roo,42,583
+970,Quintana Roo,43,558
+971,Quintana Roo,44,598
+972,Quintana Roo,45,565
+973,Quintana Roo,46,567
+974,Quintana Roo,47,543
+975,Quintana Roo,48,563
+976,Quintana Roo,49,621
+977,Quintana Roo,50,849
+978,Quintana Roo,51,687
+979,Quintana Roo,52,678
+980,Quintana Roo,53,657
+981,Quintana Roo,54,584
+982,Quintana Roo,55,564
+983,Quintana Roo,56,499
+984,Quintana Roo,57,473
+985,Quintana Roo,58,436
+986,Quintana Roo,59,383
+987,Quintana Roo,60,368
+988,Quintana Roo,61,361
+989,Quintana Roo,62,291
+990,Quintana Roo,63,292
+991,Quintana Roo,64,222
+992,Quintana Roo,65,228
+993,Quintana Roo,66,180
+994,Quintana Roo,67,165
+995,Quintana Roo,68,135
+996,Quintana Roo,69,106
+997,San Luis Potosí,26,1
+998,San Luis Potosí,27,2
+999,San Luis Potosí,28,1
+1000,San Luis Potosí,29,2
+1001,San Luis Potosí,30,1
+1002,San Luis Potosí,31,4
+1003,San Luis Potosí,32,2
+1004,San Luis Potosí,33,1
+1005,San Luis Potosí,34,4
+1006,San Luis Potosí,35,9
+1007,San Luis Potosí,36,16
+1008,San Luis Potosí,37,13
+1009,San Luis Potosí,38,19
+1010,San Luis Potosí,39,151
+1011,San Luis Potosí,40,1270
+1012,San Luis Potosí,41,1073
+1013,San Luis Potosí,42,1080
+1014,San Luis Potosí,43,987
+1015,San Luis Potosí,44,1065
+1016,San Luis Potosí,45,954
+1017,San Luis Potosí,46,969
+1018,San Luis Potosí,47,937
+1019,San Luis Potosí,48,854
+1020,San Luis Potosí,49,881
+1021,San Luis Potosí,50,882
+1022,San Luis Potosí,51,787
+1023,San Luis Potosí,52,754
+1024,San Luis Potosí,53,690
+1025,San Luis Potosí,54,622
+1026,San Luis Potosí,55,561
+1027,San Luis Potosí,56,538
+1028,San Luis Potosí,57,468
+1029,San Luis Potosí,58,499
+1030,San Luis Potosí,59,421
+1031,San Luis Potosí,60,428
+1032,San Luis Potosí,61,346
+1033,San Luis Potosí,62,319
+1034,San Luis Potosí,63,315
+1035,San Luis Potosí,64,290
+1036,San Luis Potosí,65,252
+1037,San Luis Potosí,66,246
+1038,San Luis Potosí,67,189
+1039,San Luis Potosí,68,192
+1040,San Luis Potosí,69,164
+1041,Sinaloa,25,2
+1042,Sinaloa,26,4
+1043,Sinaloa,28,3
+1044,Sinaloa,29,4
+1045,Sinaloa,30,4
+1046,Sinaloa,31,9
+1047,Sinaloa,32,15
+1048,Sinaloa,33,26
+1049,Sinaloa,34,52
+1050,Sinaloa,35,139
+1051,Sinaloa,36,178
+1052,Sinaloa,37,220
+1053,Sinaloa,38,325
+1054,Sinaloa,39,501
+1055,Sinaloa,40,988
+1056,Sinaloa,41,1025
+1057,Sinaloa,42,1049
+1058,Sinaloa,43,1001
+1059,Sinaloa,44,1037
+1060,Sinaloa,45,1025
+1061,Sinaloa,46,957
+1062,Sinaloa,47,963
+1063,Sinaloa,48,976
+1064,Sinaloa,49,894
+1065,Sinaloa,50,863
+1066,Sinaloa,51,786
+1067,Sinaloa,52,795
+1068,Sinaloa,53,733
+1069,Sinaloa,54,649
+1070,Sinaloa,55,642
+1071,Sinaloa,56,622
+1072,Sinaloa,57,554
+1073,Sinaloa,58,526
+1074,Sinaloa,59,434
+1075,Sinaloa,60,439
+1076,Sinaloa,61,345
+1077,Sinaloa,62,323
+1078,Sinaloa,63,338
+1079,Sinaloa,64,300
+1080,Sinaloa,65,258
+1081,Sinaloa,66,221
+1082,Sinaloa,67,189
+1083,Sinaloa,68,197
+1084,Sinaloa,69,177
+1085,Sonora,27,4
+1086,Sonora,28,2
+1087,Sonora,29,3
+1088,Sonora,30,6
+1089,Sonora,31,13
+1090,Sonora,32,8
+1091,Sonora,33,6
+1092,Sonora,34,20
+1093,Sonora,35,71
+1094,Sonora,36,94
+1095,Sonora,37,134
+1096,Sonora,38,143
+1097,Sonora,39,225
+1098,Sonora,40,654
+1099,Sonora,41,685
+1100,Sonora,42,679
+1101,Sonora,43,732
+1102,Sonora,44,724
+1103,Sonora,45,708
+1104,Sonora,46,729
+1105,Sonora,47,710
+1106,Sonora,48,752
+1107,Sonora,49,668
+1108,Sonora,50,746
+1109,Sonora,51,669
+1110,Sonora,52,665
+1111,Sonora,53,717
+1112,Sonora,54,610
+1113,Sonora,55,581
+1114,Sonora,56,532
+1115,Sonora,57,485
+1116,Sonora,58,442
+1117,Sonora,59,459
+1118,Sonora,60,384
+1119,Sonora,61,322
+1120,Sonora,62,238
+1121,Sonora,63,264
+1122,Sonora,64,217
+1123,Sonora,65,229
+1124,Sonora,66,171
+1125,Sonora,67,166
+1126,Sonora,68,152
+1127,Sonora,69,128
+1128,Tabasco,26,2
+1129,Tabasco,27,2
+1130,Tabasco,28,1
+1131,Tabasco,29,1
+1132,Tabasco,30,4
+1133,Tabasco,31,1
+1134,Tabasco,32,2
+1135,Tabasco,33,4
+1136,Tabasco,34,1
+1137,Tabasco,35,7
+1138,Tabasco,36,12
+1139,Tabasco,37,9
+1140,Tabasco,38,12
+1141,Tabasco,39,26
+1142,Tabasco,40,283
+1143,Tabasco,41,275
+1144,Tabasco,42,255
+1145,Tabasco,43,265
+1146,Tabasco,44,281
+1147,Tabasco,45,326
+1148,Tabasco,46,293
+1149,Tabasco,47,299
+1150,Tabasco,48,311
+1151,Tabasco,49,304
+1152,Tabasco,50,588
+1153,Tabasco,51,542
+1154,Tabasco,52,550
+1155,Tabasco,53,531
+1156,Tabasco,54,475
+1157,Tabasco,55,439
+1158,Tabasco,56,394
+1159,Tabasco,57,365
+1160,Tabasco,58,387
+1161,Tabasco,59,308
+1162,Tabasco,60,304
+1163,Tabasco,61,253
+1164,Tabasco,62,270
+1165,Tabasco,63,250
+1166,Tabasco,64,169
+1167,Tabasco,65,151
+1168,Tabasco,66,146
+1169,Tabasco,67,113
+1170,Tabasco,68,110
+1171,Tabasco,69,78
+1172,Tamaulipas,25,4
+1173,Tamaulipas,26,6
+1174,Tamaulipas,27,3
+1175,Tamaulipas,28,6
+1176,Tamaulipas,29,7
+1177,Tamaulipas,30,14
+1178,Tamaulipas,31,10
+1179,Tamaulipas,32,21
+1180,Tamaulipas,33,24
+1181,Tamaulipas,34,38
+1182,Tamaulipas,35,93
+1183,Tamaulipas,36,100
+1184,Tamaulipas,37,100
+1185,Tamaulipas,38,145
+1186,Tamaulipas,39,266
+1187,Tamaulipas,40,1069
+1188,Tamaulipas,41,1170
+1189,Tamaulipas,42,1204
+1190,Tamaulipas,43,1285
+1191,Tamaulipas,44,1248
+1192,Tamaulipas,45,1293
+1193,Tamaulipas,46,1234
+1194,Tamaulipas,47,1191
+1195,Tamaulipas,48,1214
+1196,Tamaulipas,49,1224
+1197,Tamaulipas,50,1308
+1198,Tamaulipas,51,1243
+1199,Tamaulipas,52,1243
+1200,Tamaulipas,53,1162
+1201,Tamaulipas,54,999
+1202,Tamaulipas,55,980
+1203,Tamaulipas,56,872
+1204,Tamaulipas,57,793
+1205,Tamaulipas,58,749
+1206,Tamaulipas,59,655
+1207,Tamaulipas,60,626
+1208,Tamaulipas,61,536
+1209,Tamaulipas,62,453
+1210,Tamaulipas,63,477
+1211,Tamaulipas,64,473
+1212,Tamaulipas,65,343
+1213,Tamaulipas,66,327
+1214,Tamaulipas,67,340
+1215,Tamaulipas,68,258
+1216,Tamaulipas,69,210
+1217,Tlaxcala,28,1
+1218,Tlaxcala,29,1
+1219,Tlaxcala,30,2
+1220,Tlaxcala,32,3
+1221,Tlaxcala,33,4
+1222,Tlaxcala,34,2
+1223,Tlaxcala,35,5
+1224,Tlaxcala,36,4
+1225,Tlaxcala,37,13
+1226,Tlaxcala,38,20
+1227,Tlaxcala,39,53
+1228,Tlaxcala,40,263
+1229,Tlaxcala,41,311
+1230,Tlaxcala,42,338
+1231,Tlaxcala,43,293
+1232,Tlaxcala,44,298
+1233,Tlaxcala,45,291
+1234,Tlaxcala,46,265
+1235,Tlaxcala,47,268
+1236,Tlaxcala,48,276
+1237,Tlaxcala,49,237
+1238,Tlaxcala,50,232
+1239,Tlaxcala,51,236
+1240,Tlaxcala,52,228
+1241,Tlaxcala,53,242
+1242,Tlaxcala,54,214
+1243,Tlaxcala,55,182
+1244,Tlaxcala,56,174
+1245,Tlaxcala,57,166
+1246,Tlaxcala,58,153
+1247,Tlaxcala,59,127
+1248,Tlaxcala,60,91
+1249,Tlaxcala,61,108
+1250,Tlaxcala,62,99
+1251,Tlaxcala,63,84
+1252,Tlaxcala,64,73
+1253,Tlaxcala,65,54
+1254,Tlaxcala,66,40
+1255,Tlaxcala,67,51
+1256,Tlaxcala,68,37
+1257,Tlaxcala,69,29
+1258,Veracruz,25,1
+1259,Veracruz,26,1
+1260,Veracruz,27,2
+1261,Veracruz,28,4
+1262,Veracruz,29,2
+1263,Veracruz,30,2
+1264,Veracruz,31,4
+1265,Veracruz,32,2
+1266,Veracruz,33,3
+1267,Veracruz,34,8
+1268,Veracruz,35,10
+1269,Veracruz,36,14
+1270,Veracruz,37,19
+1271,Veracruz,38,15
+1272,Veracruz,39,55
+1273,Veracruz,40,257
+1274,Veracruz,41,299
+1275,Veracruz,42,265
+1276,Veracruz,43,318
+1277,Veracruz,44,332
+1278,Veracruz,45,332
+1279,Veracruz,46,287
+1280,Veracruz,47,285
+1281,Veracruz,48,287
+1282,Veracruz,49,276
+1283,Veracruz,50,266
+1284,Veracruz,51,255
+1285,Veracruz,52,229
+1286,Veracruz,53,237
+1287,Veracruz,54,237
+1288,Veracruz,55,219
+1289,Veracruz,56,196
+1290,Veracruz,57,192
+1291,Veracruz,58,189
+1292,Veracruz,59,163
+1293,Veracruz,60,148
+1294,Veracruz,61,142
+1295,Veracruz,62,95
+1296,Veracruz,63,90
+1297,Veracruz,64,76
+1298,Veracruz,65,79
+1299,Veracruz,66,54
+1300,Veracruz,67,52
+1301,Veracruz,68,51
+1302,Veracruz,69,41
+1303,Yucatán,29,2
+1304,Yucatán,30,2
+1305,Yucatán,31,3
+1306,Yucatán,32,1
+1307,Yucatán,33,3
+1308,Yucatán,34,6
+1309,Yucatán,35,6
+1310,Yucatán,36,8
+1311,Yucatán,37,13
+1312,Yucatán,38,26
+1313,Yucatán,39,40
+1314,Yucatán,40,321
+1315,Yucatán,41,329
+1316,Yucatán,42,342
+1317,Yucatán,43,343
+1318,Yucatán,44,337
+1319,Yucatán,45,327
+1320,Yucatán,46,393
+1321,Yucatán,47,355
+1322,Yucatán,48,398
+1323,Yucatán,49,312
+1324,Yucatán,50,368
+1325,Yucatán,51,281
+1326,Yucatán,52,298
+1327,Yucatán,53,267
+1328,Yucatán,54,292
+1329,Yucatán,55,259
+1330,Yucatán,56,209
+1331,Yucatán,57,231
+1332,Yucatán,58,230
+1333,Yucatán,59,200
+1334,Yucatán,60,188
+1335,Yucatán,61,150
+1336,Yucatán,62,157
+1337,Yucatán,63,133
+1338,Yucatán,64,120
+1339,Yucatán,65,98
+1340,Yucatán,66,90
+1341,Yucatán,67,87
+1342,Yucatán,68,82
+1343,Yucatán,69,60
+1344,Zacatecas,25,2
+1345,Zacatecas,28,1
+1346,Zacatecas,29,1
+1347,Zacatecas,30,4
+1348,Zacatecas,32,3
+1349,Zacatecas,33,3
+1350,Zacatecas,34,7
+1351,Zacatecas,35,14
+1352,Zacatecas,36,12
+1353,Zacatecas,37,23
+1354,Zacatecas,38,26
+1355,Zacatecas,39,85
+1356,Zacatecas,40,741
+1357,Zacatecas,41,688
+1358,Zacatecas,42,709
+1359,Zacatecas,43,667
+1360,Zacatecas,44,740
+1361,Zacatecas,45,663
+1362,Zacatecas,46,689
+1363,Zacatecas,47,661
+1364,Zacatecas,48,612
+1365,Zacatecas,49,594
+1366,Zacatecas,50,598
+1367,Zacatecas,51,485
+1368,Zacatecas,52,537
+1369,Zacatecas,53,492
+1370,Zacatecas,54,422
+1371,Zacatecas,55,381
+1372,Zacatecas,56,390
+1373,Zacatecas,57,313
+1374,Zacatecas,58,343
+1375,Zacatecas,59,227
+1376,Zacatecas,60,238
+1377,Zacatecas,61,238
+1378,Zacatecas,62,229
+1379,Zacatecas,63,161
+1380,Zacatecas,64,132
+1381,Zacatecas,65,140
+1382,Zacatecas,66,148
+1383,Zacatecas,67,117
+1384,Zacatecas,68,118
+1385,Zacatecas,69,93
