@@ -1,4 +1,4 @@
-## 4. ¿Qué países han logrado manejar el problema de manera adecuada?
+## 3. ¿Qué países han logrado manejar el problema de manera adecuada?
 
 #### **Introducción**
 
