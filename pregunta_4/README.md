@@ -8,7 +8,7 @@ Como menciona la OMS (2007), el cáncer es una de las principales causas de muer
 
 Para corroborar (o desmentir) esta hipótesis, se realizó un web scrapping con ```Selenium``` sobre los resultados de google, restringidos a intervalos de tiempo del 2013 al 2019, con el motivo de saber si se le presta suficiente atención a este problema. Así mismo, se obtuvo información de ```Google Trends``` con respecto al índice de atención que la población le presta a esta problemática. 
 
-La descripción de la limpieza de ambos dataset se puede encontrar en el archivo Equipo_Proyecto2.ipynb, disponible en la raiz del directorio principal del repositorio.
+La descripción detallada del análisis de esta información puede encontrarse en el notebook principal, que se encuentra en la raíz de este repositorio.
 
 Fuentes de información:
 
