@@ -17,3 +17,6 @@ Fuentes de información:
 
 - OMS (s,f) Cáncer. Disponible en: https://www.who.int/topics/cancer/es/
 ```
+
+<p align="center">
+  <img src="img/gráficas/Mapa_cancer.png" alt="NF"/>
