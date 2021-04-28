@@ -22,5 +22,7 @@ Este comportamiento también puede apreciarse en México, donde el cáncer ocupa
 - [¿Qué países han logrado manejar el problema de manera adecuada?](pregunta_3/)
 - [Hipótesis: ¿Está México consciente de la problemática que trae consigo este problema de salud?](pregunta_4/)
 - [¿Qué relación existe entre otras enfermedades y factores de riesgo con el cáncer de mama?](pregunta_5/)
+
+#### Las respuestas analíticas a estas preguntas están contenidas en el archivo `proyecto.ipynb`. 
   
 
