@@ -6,7 +6,7 @@ Este proceso puede presentarse en cualquier parte del cuerpo, lo que dificulta p
 
 Según datos de la OMS (o WHO por sus iniciales en inglés), el total de casos ha escalado a 18.1 millones de casos nuevos, con 9.6 millones de muertes. Asímismo, se afirma que aunque el aumento puede deberse a distintos factores como el constante crecimiento de la población y también puede estar relacionado con el crecimiento económico de un país este fenómeno también ha aumentado en paises industrializados. 
 
-De igual forma en el documento se señala la importancia de tratar tres tipos de cáncer, entre los que destaca el cáncer de mama, que es responsable del 6.6% de las muertes totales. Además de esto se indica que el cáncer de mama es el cáncer que se diagnostica con mayor frecuencia en mujeres con un 24.2% del total, esto es uno de cada cuatro casos, mientras que para el total de afectados con esta enfermedad (en su mayoría mujeres), es el responsable del 15% del total de las muertes ocacionadas a un tipo de cáncer. (IARC a través de WHO) [1]
+De igual forma en el documento se señala la importancia de tratar tres tipos de cáncer, entre los que destaca el cáncer de mama, que es responsable del 6.6% de las muertes totales. Además de esto se indica que el cáncer de mama es el cáncer que se diagnostica con mayor frecuencia en mujeres con un 24.2% del total, esto es uno de cada cuatro casos, mientras que para el total de afectados con esta enfermedad (en su mayoría mujeres), es el responsable del 15% del total de las muertes ocacionadas a un tipo de cáncer. (IARC a través de WHO).
 
 <p align="center">
   <img src="/img/imágenes/portada.jpg" "imagen_tomada_de_Mi_Diario_Morelos" "imagen_tomada_de_Mi_Diario_Morelos" alt="NF"/>
@@ -21,5 +21,6 @@ Este comportamiento también puede apreciarse en México, donde el cáncer ocupa
 - [¿Cuál es la relación entre los gastos de salud y los resultados en su política en la lucha contra el cáncer?](pregunta_2/)
 - [¿Qué países han logrado manejar el problema de manera adecuada?](pregunta_3/)
 - [Hipótesis: ¿Está México consciente de la problemática que trae consigo este problema de salud?](pregunta_4/)
+- [¿Qué relación existe entre otras enfermedades y factores de riesgo con el cáncer de mama?](pregunta_5/
   
 
