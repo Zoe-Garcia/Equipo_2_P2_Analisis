@@ -21,3 +21,8 @@ Este comportamiento también puede apreciarse en México, donde el cáncer ocupa
 - [¿Cuál es la relación entre los gastos de salud y los resultados en su política en la lucha contra el cáncer?](pregunta_2/)
 - [¿Qué países han logrado manejar el problema de manera adecuada?](pregunta_3/)
 - [Hipótesis: ¿Está México consciente de la problemática que trae consigo este problema de salud?](pregunta_4/)
+
+<p align="center">
+  <img src="img/gráficas/Mapa_cancer.png" alt="NF"/>
+  
+
